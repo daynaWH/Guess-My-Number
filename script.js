@@ -44,6 +44,7 @@ document.querySelector('.check').addEventListener('click', function () {
       displayMessage('You lost the game 😢');
       document.querySelector('.score').textContent = 0; // to avoid score being displayed as 1 due to (score > 1)
       document.querySelector('body').style.backgroundColor = '#e5625c';
+      document.querySelector('h1').textContent = 'My Number Was:';
     }
   }
 });
