@@ -1,6 +1,6 @@
 # Guess-My-Number
 
-Simple JS project from Udemy The Complete JavaScript Course 2023 by Jonas Schmedtmann.
+Simple JS exercise from Udemy The Complete JavaScript Course 2023 by Jonas Schmedtmann.
 
 HTML and CSS files provided by the instructor.
 
